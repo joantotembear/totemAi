@@ -14,7 +14,7 @@ The models are available in various formats, including Core ML (for iOS applicat
 
 **Currently, the models available for download and integration are:**
 
-- Core ML 
+- Core ML Leukemia diagnosis with artificial intelligence
 
 **License**
 
